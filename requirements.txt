@@ -1,0 +1,8 @@
+opencv-python
+numpy
+matplotlib
+pathlib
+torch
+torchvision
+pillow
+

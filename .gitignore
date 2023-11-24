@@ -1,0 +1,7 @@
+# Ignore everything in the 'parking_demo_env' directory
+parking_demo_env/*
+
+# Ignore specific files in the 'data' directory
+data/mask_1920_1080.png
+data/mask_1920_1080.json
+data/parking_1920_1080_loop.mp4
